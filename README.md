@@ -1,1 +1,1 @@
-# Handwritten-Digits-Generation-using-GAN
+Using a simple Neural network to generate handwritten letter through generative adversarial network (GAN)
