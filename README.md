@@ -2,9 +2,11 @@ Using a simple Neural network to generate handwritten letter through generative 
 
 Standard GAN Output
 
-![output](https://user-images.githubusercontent.com/18554133/177181881-fe433dd8-cb4b-4dbf-a496-96c872da232b.png)
+![standard-gan](https://user-images.githubusercontent.com/18554133/177375841-ad9594a0-4404-4262-9372-3ec009741378.gif)
+
 
 Deep Convolutional GAN Output
 
-![output2](https://user-images.githubusercontent.com/18554133/177181991-1a338194-cb5b-4f6d-87da-34f97c30fdf1.png)
+![DCGAN](https://user-images.githubusercontent.com/18554133/177384488-b0ae6970-5328-4054-80e1-6bf729e27448.gif)
+
 
